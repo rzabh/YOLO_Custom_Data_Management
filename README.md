@@ -21,3 +21,7 @@ More about Yolo and ultralytics tools:
 https://github.com/ultralytics/ultralytics
 
 https://docs.ultralytics.com/
+
+[1] Jocher, G., Qiu, J., & Chaurasia, A. (2023). Ultralytics YOLO (Version 8.0.0) [Computer software]. 
+
+https://github.com/ultralytics/ultralytics
